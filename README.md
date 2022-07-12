@@ -11,6 +11,6 @@
 </ul type="square">
 <h1></h1>
 <ul>
-  <li><a href="https://www.estudonauta.com/aluno/joao-antonio-cardoso" target="_blank">🚀 estudonauta/joao-antonio</a></li>
   <li><a href="https://github.com/joao-antonioxc/joao-antonioxc/blob/main/Curr%C3%ADculo%20Jo%C3%A3o%20Antonio%20Cardoso.pdf" target="_blank">📄 Currículo João Antonio</a></li>
+  <li><a href="https://www.estudonauta.com/aluno/joao-antonio-cardoso" target="_blank">🚀 estudonauta/joao-antonio</a></li>
 </ul>
