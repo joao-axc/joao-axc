@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm João Antonio </h1>
+<ul>
+  <li>😎 I'm currently studying Systems Analysis and Development.</li>
+  <li>🎓 I have a Bachelor's degree in Business Administration from the State University of Londrina.</li>
+  <li>🏢 I have a lot of experience in administrative areas of companies.</li>
+  <li>🐍 Lately I've been venturing into Python.</li>
+  <li>📚 I've also been developing in HTML, CSS and programming in JavaScript.</li>
+  <li>💻 I like technology and pop culture.</li>
+  <li>👪 I love my family...</li>
+  <li>😸 and my cats.</li>
+</ul type="square">
+<br>
+<ul>
+  <li>
 
-<!--
-**joao-antonioxc/joao-antonioxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.estudonauta.com/aluno/joao-antonio-cardoso">🚀 estudonauta/joao-antonio</a></li>
+  <li>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/joao-antonioxc/joao-antonioxc/blob/main/Curr%C3%ADculo%20Jo%C3%A3o%20Antonio%20Cardoso.pdf">📄 Currículo João Antonio</a></li>
