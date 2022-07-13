@@ -8,7 +8,7 @@
     <li>🏢 I have a lot of experience in administrative areas of companies.</li>
     <li>🐍 Lately I've been venturing into Python.</li>
     <li>📚 I've also been developing in HTML, CSS and programming in JavaScript.</li>
-    <li>💻 I like technology and pop culture.</li>
+    <li>💻 I like technology, lo-fi music, pop culture and TTRPG.</li>
     <li>👪 I love my family...</li>
     <li>😸 and my cats.</li>
     </ul>
