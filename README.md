@@ -3,10 +3,12 @@
 <ul>
  <ul>
   <ul>
-    <li>😎 I'm currently studying Systems Analysis and Development.</li>
+    <li>😎 I graduated in the technical course of analysis and development of systems from SENAI.</li>
     <li>🎓 I have a Bachelor's degree in Business Administration from the State University of Londrina.</li>
     <li>🏢 I have a lot of experience in administrative areas of companies.</li>
-    <li>🐍 Lately I've been venturing into Python.</li>
+    <li>➡ I'm currently exploring Next.js...</li>
+    <li>🐘 and simultaneously I'm also studying PERN stack (Postgres, Express, React and Node).</li>
+    <li>🐍 throughout my training I studied python and flask.</li>
     <li>📚 I've also been developing in HTML, CSS and programming in JavaScript.</li>
     <li>💻 I like technology, lo-fi music, pop culture and TTRPG.</li>
     <li>👪 I love my family...</li>
